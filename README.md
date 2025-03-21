@@ -1,7 +1,7 @@
 # GANForge - 基于GAN的图像生成平台
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
+![Python](https://img.shields.io/badge/Python-3.10.15-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1+cu124-red)
 ![Flet](https://img.shields.io/badge/GUI-Flet-green)
 
 一个基于生成对抗网络（GAN）的图像生成工具，提供图形化界面方便用户训练模型和生成图像。
