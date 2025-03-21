@@ -1,0 +1,4 @@
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+flet==0.27.3
+Pillow==10.2.0
